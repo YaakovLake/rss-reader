@@ -2,7 +2,7 @@
     "values": [
         "https://www.zhihu.com/rss",
         "https://tech.meituan.com/feed/",
-        "http://www.ruanyifeng.com/blog/atom.xml",
+        "https://rsshub.app/telegram/channel/nodeseekc",
         "https://feeds.appinn.com/appinns/",
         "https://v2ex.com/feed/tab/tech.xml",
         "https://www.cmooc.com/feed",
@@ -14,5 +14,5 @@
         "https://hostloc.com/forum.php?mod=rss&fid=45&auth=389ec3vtQanmEuRoghE%2FpZPWnYCPmvwWgSa7RsfjbQ%2BJpA%2F6y6eHAx%2FKqtmPOg"
     ],
     "refresh": 1,
-    "autoUpdatePush": 6
+    "autoUpdatePush": 1
 }
